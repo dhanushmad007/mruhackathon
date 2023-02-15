@@ -1,4 +1,4 @@
-                                                ### Image Classification of Land Use/Land Cover Types
+                                        ### Image Classification of Land Use/Land Cover Types
 
 Pre Requirements:
 1.	Tensorflow
